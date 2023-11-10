@@ -1,0 +1,158 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Color de fondo */
+  }
+  
+  header {
+    text-align: center;
+    background-color: #90c7db; /* Azul claro */
+    padding: 20px;
+  }
+  
+  header h1 {
+    color: #fff; /* Texto blanco */
+  }
+  
+  header img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+  }
+  
+  section {
+    padding: 40px;
+  }
+  
+  #bienvenida {
+    background-color: #ffd699; /* Amarillo claro */
+  }
+  
+  #adopcion {
+    background-color: #c2f0c2; /* Verde claro */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .mascota {
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .mascota img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .mascota a {
+    display: block;
+    margin-top: 10px;
+    padding: 8px;
+    text-align: center;
+    background-color: #90c7db; /* Azul claro */
+    color: #fff; /* Texto blanco */
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  #beneficios {
+    background-color: #ffb3b3; /* Rojo claro */
+  }
+  
+  #beneficios ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #beneficios li {
+    margin-bottom: 10px;
+  }
+  
+  blockquote {
+    margin: 20px 0;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  blockquote p {
+    font-style: italic;
+  }
+  
+  blockquote cite {
+    display: block;
+    text-align: right;
+    margin-top: 10px;
+  }
+  
+  #proceso-adopcion {
+    background-color: #d9d9d9; /* Gris claro */
+  }
+  
+  #donaciones {
+    background-color: #ffdb4d; /* Amarillo oscuro */
+    text-align: center;
+    padding: 20px;
+  }
+  
+  #donaciones a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #90c7db; /* Azul claro */
+    color: #fff; /* Texto blanco */
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  #contacto {
+    background-color: #c2f0c2; /* Verde claro */
+    text-align: center;
+    padding: 40px;
+  }
+  
+  #contacto form {
+    margin-bottom: 20px;
+  }
+  
+  #contacto button {
+    padding: 10px 20px;
+    background-color: #90c7db; /* Azul claro */
+    color: #fff; /* Texto blanco */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #redes-sociales {
+    background-color: #ffd699; /* Amarillo claro */
+    text-align: center;
+    padding: 20px;
+  }
+  
+  #redes-sociales a {
+    margin: 0 10px;
+    color: #90c7db; /* Azul claro */
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  footer {
+    background-color: #333; /* Negro */
+    color: #fff; /* Texto blanco */
+    text-align: center;
+    padding: 10px;
+  }
+  
+  footer nav a {
+    margin: 0 10px;
+    color: #90c7db; /* Azul claro */
+    text-decoration: none;
+  }
